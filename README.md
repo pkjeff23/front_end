@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Angular CLI](https://cli.angular.io/).
 
 # Angular 7 Pixabay API for Image Search
@@ -61,3 +62,7 @@ An Angular based image search web apllication using pixabay API
 ## Legal Discliamer
 
 **This project is made for development purposes only.All Trademarks referred to are the property of their respective owners.This site is powered by PixaBay API all assets and images belong to Pixabay.com**
+=======
+# front_end
+Prueba front end
+>>>>>>> 2f4ac07420c2e5bc3364644cbf2e347d49ff113b
