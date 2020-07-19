@@ -31,8 +31,8 @@ button {
   font-size: 2.12em;
   padding-bottom: 1em;
   padding-left: 0;
-  color:gray;
-  background: none;
+  color: black;
+  background: #e4e4e4;
   border: none;
   outline: 0;
   border-bottom: 4px solid #e4e4e4;

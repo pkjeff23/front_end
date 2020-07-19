@@ -24,7 +24,7 @@ export class ImageListComponent implements OnInit {
   }
 
   constructor(private imageService: ImageService) { }
-
+/* Buscar imgenes por cadena de texto */
   searchImages(query: string) {
     this.searching = true;
     if (query) {
@@ -36,7 +36,7 @@ export class ImageListComponent implements OnInit {
     }
 
   }
-
+/* Buscar imgenes categoria */
   searchImagesCategory(query: string) {
     this.searching = true;
     if (query) {

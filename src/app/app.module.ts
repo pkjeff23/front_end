@@ -14,19 +14,16 @@ import { ImageService } from './shared/image.service';
 
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { MaterialModule } from '././material.module';
-import { UserInfoComponent } from './user-info/user-info.component';
 
 
 const appRoutes: Routes = [
     { path: '', component: ImageListComponent },
-    { path: 'user-info', component: UserInfoComponent },
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
     ImageListComponent,
-    UserInfoComponent
   ],
   imports: [
     BrowserModule,
